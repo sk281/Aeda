@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Antonio Braga/Desktop/Aeda/Aulas/Aula6-Pilhas&Filas/Tests/balcao.cpp
+queue
+-
+cstdlib
+-
+balcao.h
+C:/Users/Antonio Braga/Desktop/Aeda/Aulas/Aula6-Pilhas&Filas/Tests/balcao.h
+exceptions.h
+C:/Users/Antonio Braga/Desktop/Aeda/Aulas/Aula6-Pilhas&Filas/Tests/exceptions.h
+ctime
+-
+
+C:/Users/Antonio Braga/Desktop/Aeda/Aulas/Aula6-Pilhas&Filas/Tests/balcao.h
+iostream
+-
+queue
+-
+
+C:/Users/Antonio Braga/Desktop/Aeda/Aulas/Aula6-Pilhas&Filas/Tests/exceptions.h
+string
+-
+
